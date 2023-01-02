@@ -18,4 +18,6 @@
 
 <br>
 <h4 align="left">-- 📫 Contate-me em danielzanoni2001@gmail.com</h4>
+<h4 align="left">-- 📫 <a href="https://www.linkedin.com/in/danielzanoni/">Linkedin</a></h4>
+                
       
